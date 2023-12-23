@@ -1,0 +1,8 @@
+name: toll-visualization
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - notebook
+  - pandas
