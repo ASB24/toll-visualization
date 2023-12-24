@@ -6,3 +6,7 @@ dependencies:
   - python
   - notebook
   - pandas
+  - odfpy
+  - beautifulsoup4
+  - geopandas
+prefix: /home/alexs/anaconda3/envs/toll-visualization
