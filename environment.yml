@@ -9,4 +9,5 @@ dependencies:
   - odfpy
   - beautifulsoup4
   - geopandas
+  - contextily
 prefix: /home/alexs/anaconda3/envs/toll-visualization
